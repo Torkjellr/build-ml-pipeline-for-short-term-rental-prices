@@ -6,27 +6,27 @@ entry_points:
     parameters:
 
       input_artifact:
-        description: ## ADD DESCRIPTION
+        description: name of the input artifact
         type: string
 
       output_artifact:
-        description: ## ADD DESCRIPTION
+        description: name of the output artifact
         type: string
 
       output_type:
-        description: ## ADD DESCRIPTION
+        description: type of the output artifact
         type: string
 
       output_description:
-        description: ## ADD DESCRIPTION
+        description: description of the output file"
         type: string
 
       min_price:
-        description: ## ADD DESCRIPTION
+        description: minimum price
         type: string
 
       max_price:
-        description: ## ADD DESCRIPTION
+        description: maximum price
         type: string
 
 
